@@ -1,0 +1,5 @@
+./idea
+./backend/src/.js
+**/node_modules/
+
+src/**/*.js
